@@ -9,15 +9,14 @@
 - email: cksgurwkd12@naver.com
 - blog: https://blog.naver.com/cksgurwkd12
 - github: https://github.com/choichanhyeok
-
+*****
 
 ## ⚒ Project
 ### 1. [할머니는 다 들어주셔](https://github.com/2022-Harmony/NewsCommunity-bFinal)
 > 네이버 스포츠 뉴스 요약 및 커뮤니티 제공 서비스 (팀 프로젝트)</br>
 > Java-11/ Spring Boot-2.7.2/ Mysql-8.0.28(RDS)/ AWS[RDS, EB, CLOUDFRONT, ROUTE53]/<br>
-> NGINX/ GIT/ GRADLE -7.4.1/ SPRING-DATA-JPA
-> SPRING-SECURITY
-> [기여한 점과 핵심 트러블슈팅](https://agreeable-sing-3a0.notion.site/2dd0443a596d46408d74f2602734e24e)
+> NGINX/ GIT/ GRADLE -7.4.1/ SPRING-DATA-JPA/ SPRING-SECURITY <br>
+> 🔍[기여한 점과 핵심 트러블슈팅](https://agreeable-sing-3a0.notion.site/2dd0443a596d46408d74f2602734e24e)
 *****
 
 ## 📝Education
@@ -25,4 +24,4 @@
 - 스파르타 코딩클럽 부트캠프 수료 (2022-04-18 ~ 2022-08-10)
 - 한국전자통신연구원 하계 연구인턴 (2021-07-03 ~ 2021-08-31)
 - [인프런, 패스트캠퍼스 개발 관련 교육들](https://www.notion.so/8278d98b3473497296835e4574a8bd4c) (2022 ~)
-
+*****
