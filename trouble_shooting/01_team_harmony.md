@@ -44,10 +44,5 @@
 #### 2. JSON XSS 방어
 > - `lucy-xss-servlet-filter` 를 이용해 XSS를 방어하려는 첫 번째 시도가 있었으나
 > - 프론트에서 넘어오는 reqeust body가 JSON 형태로 이루어져, lucy-xss-servlet-filter를 적용 불가
-> - 
 
 #### 3. 슬로우 쿼리 발견
-
-
-
-> - 학습 기록(1): ([WebMvcConfigure](https://blog.naver.com/cksgurwkd12), [MappingJackson2HttpMessageConverter](https://blog.naver.com/cksgurwkd12))
