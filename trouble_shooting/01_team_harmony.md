@@ -46,7 +46,7 @@
 > - 프론트에서 넘어오는 reqeust body가 JSON 형태로 이루어져, lucy-xss-servlet-filter를 적용 불가
 > - 
 
-#### 3. 
+#### 3. 슬로우 쿼리 발견
 
 
 
