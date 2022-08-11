@@ -1,6 +1,6 @@
 # 🔫 2022-TEAM.Harmony 기여사항 및 프로젝트 트러블 슈팅
 
-### ⛑ 기여한 점
+### ⛑ 내가 기여한 점
 
 #### 1. 뉴스 데이터 수집 (크롤링, naver summary api)
 > - python selenium을 이용한 네이버 스포츠 뉴스 Top100 크롤링
@@ -45,4 +45,6 @@
 > - `lucy-xss-servlet-filter` 를 이용해 XSS를 방어하려는 첫 번째 시도가 있었으나
 > - 프론트에서 넘어오는 reqeust body가 JSON 형태로 이루어져, lucy-xss-servlet-filter를 적용 불가
 
-#### 3. 슬로우 쿼리 발견
+#### 3. 슬로우 쿼리 발견 및 개선
+
+#### 4. UUID 사용으로 발생한 조회 성능 이슈, 인덱싱을 
