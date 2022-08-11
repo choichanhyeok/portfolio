@@ -16,7 +16,7 @@
 > 네이버 스포츠 뉴스 요약 및 커뮤니티 제공 서비스 (팀 프로젝트)</br>
 > Java-11/ Spring Boot-2.7.2/ Mysql-8.0.28(RDS)/ AWS[RDS, EB, CLOUDFRONT, ROUTE53]/<br>
 > NGINX/ GIT/ GRADLE -7.4.1/ SPRING-DATA-JPA/ SPRING-SECURITY <br>
-> 🔍[기여한 점과 핵심 트러블슈팅](https://agreeable-sing-3a0.notion.site/2dd0443a596d46408d74f2602734e24e)
+> 🔍[기여한 점과 핵심 트러블슈팅](https://github.com/choichanhyeok/portfolio/blob/main/trouble_shooting/01_team_harmony.md)
 *****
 
 ## 📝Education
