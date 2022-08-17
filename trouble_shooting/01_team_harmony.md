@@ -24,7 +24,7 @@
 ([Front](https://github.com/2022-Harmony/NewsCommunity-bFinal/actions), [Backend](https://github.com/2022-Harmony/NewsCommunity-bFinal/actions))
 
 #### 7. 테스트 코드 작성
-> - 특이사항 없음
+> - 특이사항 없음 (미비)
 
 #### 8. 프론트앤드를 위해 예외 관련 모든 response에 에러 코드를 넣어주고, API에 명시
 > - [API 명세서](https://github.com/2022-Harmony/NewsCommunity-bFinal/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C)
