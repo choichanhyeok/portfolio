@@ -3,7 +3,7 @@
 ### ⛑ 내가 기여한 점
 
 #### 1. XSS 공격 방어 (using WebMvcConfigure)
-> - [`WebMvcConfigure`](https://blog.naver.com/cksgurwkd12)를 상속받아 [`MappingJackson2HttpMessageConverter`](https://blog.naver.com/cksgurwkd12)를 재정의해 방어했다.* 
+> - ObjectMapper가 JSON 문자열을 생성할 때 XSS 방지 처리
 
 #### 2. 배포 후 모니터링 목적의 전역 예외처리와 로그백 (advice, slf4j)
 > - AOP와 Advice, sl4j이용
@@ -42,7 +42,4 @@
 #### 2. JSON XSS 방어
 > - `lucy-xss-servlet-filter` 를 이용해 XSS를 방어하려는 첫 번째 시도가 있었으나
 > - 프론트에서 넘어오는 reqeust body가 JSON 형태로 이루어져, lucy-xss-servlet-filter를 적용 불가
-> - [자세히 보기](https://blog.naver.com/cksgurwkd12)
-
-#### 3. UUID 사용으로 발생한 조회 성능 이슈, 인덱싱을 통해 해결
-> - [자세히 보기](https://blog.naver.com/cksgurwkd12)
+> - [자세히 보기](https://blog.naver.com/cksgurwkd12/222851309953)
