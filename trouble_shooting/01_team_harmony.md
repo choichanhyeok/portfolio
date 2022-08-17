@@ -38,12 +38,12 @@
 > - 이 경우, 개발인원들이 백앤드 리소스(DB 컬럼, 도메인 등..)를 중복해서 관리하게 되어 책임소재 복잡, 잦은 충돌 발생등의 문제가 생김
 > - 작업 환경을 백앤드 관점의 도메인 기준으로 나누어 책임 소재를 명확히하고, 충돌이 발생 여지를 없앰.
 > - (TradeOff) 프론트앤드에서 url 호출이 많아졌으며, 프론트앤드 관점에서는 페이지 기준으로 작업을 할당해야 충돌이 발생하지 않음
-> - [자세히 보기](https://blog.naver.com/cksgurwkd12)
 
 
 #### 2. JSON XSS 방어
 > - `lucy-xss-servlet-filter` 를 이용해 XSS를 방어하려는 첫 번째 시도가 있었으나
 > - 프론트에서 넘어오는 reqeust body가 JSON 형태로 이루어져, lucy-xss-servlet-filter를 적용 불가
-
+> - [자세히 보기](https://blog.naver.com/cksgurwkd12)
 
 #### 3. UUID 사용으로 발생한 조회 성능 이슈, 인덱싱을 통해 해결
+> - [자세히 보기](https://blog.naver.com/cksgurwkd12)
