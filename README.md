@@ -1,8 +1,6 @@
 # 최찬혁 포트폴리오
 🌎 세상에서 제일 개발 잘하는 사람이 되기를 꿈꾸며 하루하루 감사한 마음으로 공부하는 최찬혁입니다. <br><br>
 [공부한 내용과 개발 이슈등을 잘 기록하는 습관을](https://github.com/choichanhyeok/A_LearningRecord) 가지고 있고 [협업을 잘 하기 위해 항상 노력하는](https://agreeable-sing-3a0.notion.site/70a546407dc14d5da0d5cd51921b06d1) 개발자입니다. <br>
-**테스트코드를 지향**하며 **객체지향을 코드에 녹이려고** 고민합니다.
-
 
 
 ## 📞 Contact
