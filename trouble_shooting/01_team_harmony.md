@@ -7,7 +7,7 @@
 
 #### 2. 배포 후 모니터링 목적의 전역 예외처리와 로그백 (advice, slf4j)
 > - AOP와 Advice, sl4j이용
-> - [전역 예외처리에 Advice를 적용한 이유](https://blog.naver.com/cksgurwkd12)
+> - 전역 예외처리에 Advice를 적용
 
 #### 3. AWS EB 환경 구축 및 git action (based on spring)를 이용한 CI/CD 구축
 > - [ROUTE53을 이용한 SSL 생성 및 CertificationManager에 등록](https://blog.naver.com/cksgurwkd12/222845288814)
