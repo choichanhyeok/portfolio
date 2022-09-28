@@ -42,4 +42,4 @@
 #### 2. JSON XSS 방어
 > - `lucy-xss-servlet-filter` 를 이용해 XSS를 방어하려는 첫 번째 시도가 있었으나
 > - 프론트에서 넘어오는 reqeust body가 JSON 형태로 이루어져, lucy-xss-servlet-filter를 적용 불가
-> - [ObjectMapper를 이용해 해결](https://blog.naver.com/cksgurwkd12/222851309953)
+> - [WebMvcConfigurer를 이용해 해결](https://blog.naver.com/cksgurwkd12/222851309953)
