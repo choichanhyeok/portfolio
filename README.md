@@ -19,7 +19,7 @@
 
 <br>
 
-### 2. [뉴스 데이터 크롤링 및 메일 전송 모듈(Python)]
+### 2. 뉴스 데이터 크롤링 및 메일 전송 모듈(Python)
 > 네이버 스포츠 뉴스 요약 및 커뮤니티 제공 서비스 (팀 프로젝트)</br>
 > Python-3.9/ Flask/ MONGODB-CLUSTER(RDS)/ AWS[EB]/<br>
 > 🔍[**내가** 기여한 모듈](https://github.com/2022-Harmony/news_pre_processor_admin)✨✨✨
